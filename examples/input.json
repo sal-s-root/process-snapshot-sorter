@@ -1,0 +1,15 @@
+{
+  "limit": 1,
+  "processes": [
+    {
+      "pid": 2,
+      "name": "worker",
+      "cpu_percent": 70
+    },
+    {
+      "pid": 1,
+      "name": "shell",
+      "cpu_percent": 2
+    }
+  ]
+}

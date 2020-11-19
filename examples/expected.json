@@ -1,0 +1,9 @@
+{
+  "processes": [
+    {
+      "pid": 2,
+      "name": "worker",
+      "cpu_percent": 70.0
+    }
+  ]
+}
